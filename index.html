@@ -4,58 +4,64 @@ layout: base
 <div class="wrapper">
 	<header>
 		{% if site.compass.logo %}
-			<div class="logo-container">
-				<a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
-			</div>
+		<div class="logo-container">
+			<a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
+		</div>
 		{% endif %}
 
 		{% if site.compass.author %}
-			<div class="author-container"><h1>{{ site.compass.author }}</h1></div>
-		{% endif %}
-
-		{% if site.compass.tagline %}
-			<div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
-		{% endif %}
-		<p>Charité - Universitätsmedizin Berlin<br>Invalidenstr. 43, Room 2314<br>+4930 2093 8633</p>
-		<div class="icon-container">
-			<a href="https://de.linkedin.com/in/pascalschulthess">
-				<span class="fa-stack">
-					<i class="fa fa-circle fa-stack-2x"></i>
-					<i class="fa fa-stack-1x fa-linkedin fa-inverse"></i>
-				</span>          
-			</a>
-			<a href="https://www.facebook.com/hellopascalschulthess">
-				<span class="fa-stack">
-					<i class="fa fa-circle fa-stack-2x"></i>
-					<i class="fa fa-stack-1x fa-facebook fa-inverse"></i>
-				</span>          
-			</a>
-			<a href="https://twitter.com/hellopascal">
-				<span class="fa-stack">
-			    	<i class="fa fa-circle fa-stack-2x"></i>
-					<i class="fa fa-stack-1x fa-twitter fa-inverse"></i>
-				</span>          
-			</a>
-			<a href="https://github.com/pascalschulthess">
-				<span class="fa-stack">
-					<!--<i class="fa fa-circle fa-stack-2x fa-inverse"></i>-->
-					<i class="fa fa-stack-2x fa-github"></i>
-				</span>
-			</a>
-			<a href="https://www.researchgate.net/profile/Pascal_Schulthess2">
-				<span class="fa-stack">
-					<i class="fa fa-circle fa-stack-2x"></i>
-					<i class="ai fa fa-stack-1x ai-researchgate fa-inverse ai-stack"></i>
-				</span>
-			</a>
+		<div class="author-container">
+			<h1>{{ site.compass.author }}</h1>
 		</div>
-	</header>
-	<main>
-		{% if site.compass.include_content %}
+			{% endif %}
+
+			{% if site.compass.tagline %}
+			<div class="tagline-container">
+				<p>{{ site.compass.tagline }}</p>
+			</div>
+			{% endif %}
+			<div class="address-container">
+				<p>Charité - Universitätsmedizin Berlin<br>Invalidenstr. 43, Room 2314<br>+4930 2093 8633</p>
+			</div>
+			<div class="icon-container">
+				<a href="https://de.linkedin.com/in/pascalschulthess">
+					<span class="fa-stack">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fa fa-stack-1x fa-linkedin fa-inverse"></i>
+					</span>
+				</a>
+				<a href="https://www.facebook.com/hellopascalschulthess">
+					<span class="fa-stack">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fa fa-stack-1x fa-facebook fa-inverse"></i>
+					</span>
+				</a>
+				<a href="https://twitter.com/hellopascal">
+					<span class="fa-stack">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fa fa-stack-1x fa-twitter fa-inverse"></i>
+					</span>
+				</a>
+				<a href="https://github.com/pascalschulthess">
+					<span class="fa-stack">
+						<!--<i class="fa fa-circle fa-stack-2x fa-inverse"></i>-->
+						<i class="fa fa-stack-2x fa-github"></i>
+					</span>
+				</a>
+				<a href="https://www.researchgate.net/profile/Pascal_Schulthess2">
+					<span class="fa-stack">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="ai fa fa-stack-1x ai-researchgate fa-inverse ai-stack"></i>
+					</span>
+				</a>
+			</div>
+		</header>
+		<main>
+			{% if site.compass.include_content %}
 			<div class="content">
 				{% include content.html %}
 			</div>
-		{% endif %}
-	</main>
-</div>
-<!--<script src="javascripts/scale.fix.js"></script>-->
+			{% endif %}
+		</main>
+	</div>
+	<!--<script src="javascripts/scale.fix.js"></script>-->

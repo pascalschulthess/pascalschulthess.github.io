@@ -1,12 +1,12 @@
 ---
 ---
 
-$text-color: #303030;
-$anchor-text-color: #0088D5;
+$text-color: #343838;
+$anchor-text-color: #00B4CC;
 $background-color: #FFFFFF;
 
 body {
-	font-family: 'Vollkorn', serif;
+	font-family: 'Antic Slab', serif;
 	color: $text-color;
 	background-color: $background-color;
 }
@@ -71,14 +71,13 @@ since it must be aligned with the content */
 }
 
 .logo {
-	width: 96px;
-	height: 96px;
+	width: 128px;
+	height: 128px;
 	display: inline-block;
 	background-size: cover;
 	border-radius: 50%;
 	-moz-border-radius: 50%;
 	border: 2px solid $background-color;
-	/*box-shadow: 0 0 0 3px $text-color;*/
 }
 
 /*** author ***/
@@ -97,8 +96,16 @@ since it must be aligned with the content */
 	margin-top: 1em;
 }
 
+/*** adress ***/
+.address-container p {
+	font-size: 1em;
+	text-align: center;
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+
 .icon-container {
-  width: calc(32px * 4 + 4px * 3);
+  width: calc(36px * 5 + 4px * 4);
   margin: auto;
 }
 
@@ -108,10 +115,6 @@ hr {
 	border: 0;
   border-bottom: 1px dashed #ccc;
   background: #999;
-	/*background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));
-	background-image: -moz-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));
-	background-image: -ms-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));
-	background-image: -o-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));*/
 }
 
 /*** footer ***/
@@ -146,7 +149,7 @@ footer {
 	.wrapper {
 		width: 680px;
 	}
-	
+
   .icon-container {
     width: 100%;
   }
@@ -163,12 +166,13 @@ footer {
 
 	.author-container h1,
 	.logo-container,
-	.tagline-container p {
+	.tagline-container p,
+	.address-container p {
 		text-align: right;
 	}
 
 	main {
-		width: 30vw;
+		width: 35vw;
 		margin-left: 30vw;
 		margin-right: 40vw;
 		padding: 0;
