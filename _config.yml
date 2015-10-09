@@ -1,12 +1,29 @@
-# Site settings
-title: Pascal Schulthess
-email: hello@pascalschulthess.de
-description: > # this means to ignore newlines until "baseurl:"
-  Personal website of Pascal Schulthess, Engineer & theoretical biophysicist
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hellopascal
-github_username:  pascalschulthess
+# general configuration
+url: http://excentris.net
+baseurl: ''
 
-# Build settings
+# compass configuration
+compass:
+  # an avatar or logo (optional)
+  logo: "/images/me.jpg"
+  # author will appear under the avatar (optional)
+  author: "Florian Uhlitz"
+  # tagline will appear under the title (optional)
+  tagline: "Molecular Biologist and R Enthusiast"
+  # if include_content is true, the contents of the content.html include will be
+  # added right above the generated item list, if present
+  include_content: true
+  # if include_analytics is true, the content of the analytics.html include will
+  # be added at the end of the <head> section. You can add your Google Analytics
+  # Tracking Code to that file.
+  include_analytics: false
+
+# Dependencies
 markdown: kramdown
+highlighter: pygments
+#gems:
+#  - jekyll-last-modified-at
+
+# Permalinks
+permalink: pretty
+relative_permalinks: true
