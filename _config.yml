@@ -1,5 +1,5 @@
 # general configuration
-url: http://excentris.net
+url: http://pascalschulthess.de
 baseurl: ''
 
 # compass configuration
@@ -7,9 +7,9 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/me.jpg"
   # author will appear under the avatar (optional)
-  author: "Florian Uhlitz"
+  author: "Pascal Schulthess"
   # tagline will appear under the title (optional)
-  tagline: "Molecular Biologist and R Enthusiast"
+  tagline: "Systems... Theorist/Biologist/... Thinker"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true

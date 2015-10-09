@@ -1,48 +1,66 @@
 
-I'm a	second year PhD student at [BSIO](http://bsio-cancerschool.de) (Berlin School of Integrative Oncology) in the group of Prof. Nils Blüthgen, [Computational Modelling in Medicine](http://sys-bio.net/). We're associated with the [Institute for Theoretical Biology](https://itb.biologie.hu-berlin.de/wiki/) at Humboldt-University of Berlin, the [Laboratory of Molecular Tumour Pathology](http://mtp.charite.de/) at Charité and the [IRI Life Sciences](http://www.iri-lifesciences.de/en/home.html).
+I'm currently finishing up my PhD thesis in the [Computational Modelling in Medicine](http://sys-bio.net/) group of Prof. Dr. Nils Blüthgen. In January 2016 I will move to the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) for a postdoctoral fellowship in close cooperation with [AstraZeneca](http://astrazeneca.com).
 
 ## Research Interest
 
-I'm interested in how MAP kinase signalling modulates RNA dynamics. My goal is to quantitatively determine how _cis_ and _trans_ elements relay signalling input dynamics to transcript output dynamics. 
+Coming from an engineering discipline, I'm interested in applying systems theory to applications in biology and pharmacology.
+
+## Publications
+
+**Schulthess, P.**, Löffler A., Vetter S., Kreft L., Schwarz M., Braeuning A., Blüthgen N. Signal Integration by the _CYP1A1_ Promoter - A Quantitative Study. _Nucleic Acids Research_, 43:5318–5330, 2015. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25934798)
+
+Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y., Tikk D., Blüthgen N., Leser U. Computer-assisted curation of a human regulatory core network from the biological literature. _Bioinformatics_, 15;31(8):1258-66, 2015. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25433699)
+
+**Schulthess, P.** and Blüthgen, N. From Reaction Networks to Information Flows - Using Modular Response Analysis to Track Information in Signaling Networks. _Methods Enzymology_, 500:397-409, 2011. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/21943908)
+
 
 ## Conference Talks
 
-06/2015	-  _How to be late. Strategies of Gene Induction_ @ Overcoming Treatment Barriers in Cancer, Young Scientist Satellite Meeting, Charité, Berlin.
+03/2013 - _Binding Site Cooperativity and Dual Signal Integration in CYP1A1 Induction_ @ 79th Annual Conference of the German Society for experimental and clinical Pharmacology and Toxicology, Halle (Saale), Germany
 
-11/2014	- _RNA half lives and transcriptional delays shape response profiles to MAP kinase signalling_ @ 4th Annual Epigenesys Meeting, Centre of Genomic Regulation (CRG), Barcelona.
+07/2012 - _Cooperativity between Aryl Hydrocarbon Receptor and β-catenin Binding Sites in Hepatocytes_ @ 4th Conference on Systems Biology of Mammalian Cells, Leipzig, Germany
 
-08/2014	- _Investigations on Regulation of the Transcriptome in RAF Signalling_ @ 8th q-bio Student Symposium, UNM, Albuquerque, NM, USA.
+10/2010 - _From Reaction Networks to Information Flow – Using Modular Response Analysis to Track Information in Signaling Networks_ @ 11th International Conference on Systems Biology, Edinburgh, Scotland
+
+## Teaching
+2010-2012 - Teaching assistant in _Data analysis and numerical methods_, Institute for Theoretical Biology, Humboldt University of Berlin
 
 ## Education
 
-2011-2013	- Master of Science in Molecular Life Science, Humboldt-University of Berlin, Germany
+2002-2009 - Diploma in Engineering Cybernetics, University of Stuttgart, Germany
 
-* Thesis:	Investigations on Regulation of the Transcriptome in RAF Signalling
-* Supervisor: Prof. Nils Blüthgen, Institute for Theoretical Biology, HU Berlin / Charité
+* Diploma Thesis: Layer-based modeling of EGF Receptor Signaling and Thermodynamic Feasibility Analysis
+* Supervisors: Prof. O. Sawodny, Dr. M. Koschorreck, Institute for System Dynamics, University of Stuttgart, Germany
 
-2008-2011	Bachelor of Science in Biology, Humboldt-University of Berlin, Germany
+2006-2007 - Study of Systems Biology, University of Barcelona, Spain
 
-* Thesis: Investigations on the optimization of the in vitro culture of Eimeria falciformis
-* Supervisors: Dr. Simone Spork, Prof. Dr. Richard Lucius, Dept. of Molecular Parasitology, HU Berlin
+* Student Thesis: Modeling and Simulation of the Mitochondrial Electron Transport Chain
+* Supervisors: Dr. M. Cascante, Dr. V. Selivanov, Integrative Biochemistry and Cancer Therapy, University of Barcelona, Spain
 
-## Workshops
+## Working Experience
 
-2015 - [Posttranscriptional Gene Regulation](http://enseignement.curie.fr/en/content/1st-course-post-transcriptional-gene-regulation-mechanisms-heart-networks-2014), Institut Curie (Paris)
+2005-2006 - Internship @ Systems and Control Group, TAO Technologies GmbH, Stuttgart, Germany
 
-2014 - [q-bio (quantitative biology) Summer School](http://q-bio.org/wiki/The_Eighth_q-bio_Summer_School), University of New Mexico (Albuquerque, NM, USA)
+* Topic: Development of software tests and simulations to analyze and optimize real-time hardware for components in autonomic aircrafts.
+* Supervisor: Prof. Dr. B. Kröplin
 
-2013 - [Epigenetics Summer School](), Berlin Institute for Medical Systems Biology (BIMSB, MDC Berlin)
+2007 - Internship @ Insilico Biotechnology AG, Stuttgart, Germany
+
+* Topic: Modeling of the mitochondrial respiratory chain with focus on biological feasibility by the incorporation and maintenance of publicly available databases.
+* Supervisor: K. Mauch
+
+2009 - Intership @ Computational Systems Biology Group, Bayer Technology Services GmbH, Leverkusen, Germany
+
+* Topic: Implementation and analysis of a complex mathematical model of the photosynthesis mechanism in C3-plants
+* Supervisors: Dr. J. Lippert, Dr. L. Küpfer, Dr. T. Eissing
+
 
 ## Scholarships & Awards
 
-2014-2017	- Phd Scholarship, Berlin School of Integrative Oncology
+2015 - PhD Scholarship, Charité - Universitätsmedizin Berlin
 
-2015 - FEBS Young Scientists Forum Travel Grand
-
-2014 - New Mexico Conssortium Travel Grand
+2010 - GENESYS Travel Award, 11th International Conference on Systems Biology, Edinburgh, Scotland
 
 ---
 
-This landing page was created with help of [jekyll](http://jekyllrb.com/), [compass](https://github.com/excentris/compass), [FontAwesome](https://fortawesome.github.io/Font-Awesome/) and [AcademIcons](https://jpswalsh.github.io/academicons/). Last updated at July 22, 2015.
-
-
+This page was last updated on October 9, 2015.
