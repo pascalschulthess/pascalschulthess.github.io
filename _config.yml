@@ -1,0 +1,12 @@
+# Site settings
+title: Pascal Schulthess
+email: hello@pascalschulthess.de
+description: > # this means to ignore newlines until "baseurl:"
+  Personal website of Pascal Schulthess, Engineer & theoretical biophysicist
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: hellopascal
+github_username:  pascalschulthess
+
+# Build settings
+markdown: kramdown
