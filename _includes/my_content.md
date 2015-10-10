@@ -39,21 +39,20 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 
 ## Working Experience
 
-2005-2006 - Internship @ Systems and Control Group, TAO Technologies GmbH, Stuttgart, Germany
+2009 - Internship @ Computational Systems Biology Group, Bayer Technology Services GmbH, Leverkusen, Germany
 
-* Topic: Development of software tests and simulations to analyze and optimize real-time hardware for components in autonomic aircrafts.
-* Supervisor: Prof. Dr. B. Kröplin
+* Topic: Implementation and analysis of a complex mathematical model of the photosynthesis mechanism in C3-plants
+* Supervisors: Dr. J. Lippert, Dr. L. Küpfer, Dr. T. Eissing
 
 2007 - Internship @ Insilico Biotechnology AG, Stuttgart, Germany
 
 * Topic: Modeling of the mitochondrial respiratory chain with focus on biological feasibility by the incorporation and maintenance of publicly available databases.
 * Supervisor: K. Mauch
 
-2009 - Intership @ Computational Systems Biology Group, Bayer Technology Services GmbH, Leverkusen, Germany
+2005-2006 - Internship @ Systems and Control Group, TAO Technologies GmbH, Stuttgart, Germany
 
-* Topic: Implementation and analysis of a complex mathematical model of the photosynthesis mechanism in C3-plants
-* Supervisors: Dr. J. Lippert, Dr. L. Küpfer, Dr. T. Eissing
-
+* Topic: Development of software tests and simulations to analyze and optimize real-time hardware for components in autonomic aircrafts.
+* Supervisor: Prof. Dr. B. Kröplin
 
 ## Scholarships & Awards
 
