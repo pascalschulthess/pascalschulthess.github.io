@@ -1,5 +1,5 @@
 
-I'm currently finishing up my PhD thesis in the [Computational Modelling in Medicine](http://sys-bio.net/) group of Prof. Dr. Nils Blüthgen. In January 2016 I will move to the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) for a postdoctoral fellowship in close cooperation with [AstraZeneca](http://astrazeneca.com).
+I'm currently finishing up my PhD thesis entitled _Thermodynamic modeling explains the regulation of CYP1A1 expression in the liver_ in the [Computational Modelling in Medicine](http://sys-bio.net/) group of Prof. Dr. Nils Blüthgen. In January 2016 I will move to the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) for a postdoctoral fellowship in close cooperation with [AstraZeneca](http://astrazeneca.com).
 
 ## Research Interest
 
@@ -62,4 +62,4 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 
 ---
 
-This page was last updated on October 9, 2015.
+This page was last updated on October 26, 2015.
