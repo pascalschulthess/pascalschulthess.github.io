@@ -1,5 +1,5 @@
 
-I just started a postdoctoral fellowship at the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) where I will study the impact and control of feedback and feedforward mechanisms in mechanistic PKPD models in oncology. This project is supervised by Prof. Dr. Piet Hein van der Graaf (LACDR), PharmD PhD Teun Post (Leiden Experts on Advanced Pharmacokinetics & Pharmacodynamics, LAPP) and carried out in close cooperation with [AstraZeneca](http://astrazeneca.com).
+I just started a postdoctoral fellowship at the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) where I will study the impact and control of feedback and feedforward mechanisms in mechanistic PKPD models in oncology. This project is supervised by Prof. Dr. Piet Hein van der Graaf (LACDR), PharmD PhD Teun Post (Leiden Experts on Advanced Pharmacokinetics & Pharmacodynamics, [LAPP](http://www.lapp.nl/)) and carried out in close cooperation with [AstraZeneca](http://astrazeneca.com).
 
 ## Research Interest
 
