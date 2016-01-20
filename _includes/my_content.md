@@ -1,5 +1,5 @@
 
-I'm currently finishing up my PhD thesis entitled _Thermodynamic modeling explains the regulation of CYP1A1 expression in the liver_ in the [Computational Modelling in Medicine](http://sys-bio.net/) group of Prof. Dr. Nils Blüthgen. In January 2016 I will move to the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) for a postdoctoral fellowship in close cooperation with [AstraZeneca](http://astrazeneca.com).
+I just started a postdoctoral fellowship at the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) where I will study the impact and control of feedback and feedforward mechanisms in mechanistic PKPD models in oncology. This project is supervized by Prof. Dr. Piet Hein van der Graaf (LACDR), PharmD PhD Teun Post (Leiden Experts on Advanced Pharmacokinetics & Pharmacodynamics, LAPP) and carried out in close cooperation with [AstraZeneca](http://astrazeneca.com).
 
 ## Research Interest
 
@@ -26,6 +26,11 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 2010-2012 - Teaching assistant in _Data analysis and numerical methods_, Institute for Theoretical Biology, Humboldt University of Berlin
 
 ## Education
+
+2009-2016 - PhD in Biophysics, Charité -- Universitätsmedizin Berlin, Germany
+
+* PhD Thesis: Thermodynamic modeling explains the regulation of CYP1A1 expression in the liver
+* Supervisors: Prof. Dr. Nils Blüthgen, Computational Modeling in Medicine, Institute for Pathology, Charité -- Universitätsmedizin Berlin, Germany
 
 2002-2009 - Diploma in Engineering Cybernetics, University of Stuttgart, Germany
 
@@ -62,4 +67,4 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 
 ---
 
-This page was last updated on October 26, 2015.
+This page was last updated on January 20, 2016.
