@@ -20,7 +20,7 @@ compass:
 
 # Dependencies
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 #gems:
 #  - jekyll-last-modified-at
 
