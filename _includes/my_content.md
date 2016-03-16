@@ -29,7 +29,7 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 
 2009-2016 - PhD in Biophysics, Charité -- Universitätsmedizin Berlin, Germany
 
-* PhD Thesis: Thermodynamic modeling explains the regulation of CYP1A1 expression in the liver. ([.pdf](http://edoc.hu-berlin.de/dissertationen/schulthess-pascal-2016-03-04/PDF/schulthess.pdf))
+* PhD Thesis: Thermodynamic modeling explains the regulation of CYP1A1 expression in the liver. [Pub](http://edoc.hu-berlin.de/docviews/abstract.php?lang=ger&id=42531))
 * Supervisors: Prof. Dr. Nils Blüthgen, Computational Modeling in Medicine, Institute for Pathology, Charité -- Universitätsmedizin Berlin, Germany
 
 2002-2009 - Diploma in Engineering Cybernetics, University of Stuttgart, Germany
