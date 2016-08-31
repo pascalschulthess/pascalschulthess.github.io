@@ -1,28 +1,74 @@
-# general configuration
-url: http://pascalschulthess.de
-baseurl: ''
+# Site
+title:              Pascal Schulthess
+bio:                'Systems Biologist and Control Theorist'
+description:        "A small personal website."
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/me.jpg'
+background:         'assets/img/background.png'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+url:                http://pascal.schulthess.io
 
-# compass configuration
-compass:
-  # an avatar or logo (optional)
-  logo: "/images/me.jpg"
-  # author will appear under the avatar (optional)
-  author: "Pascal Schulthess"
-  # tagline will appear under the title (optional)
-  tagline: "Systems Biologist and Control Theorist"
-  # if include_content is true, the contents of the content.html include will be
-  # added right above the generated item list, if present
-  include_content: true
-  # if include_analytics is true, the content of the analytics.html include will
-  # be added at the end of the <head> section. You can add your Google Analytics
-  # Tracking Code to that file.
-  include_analytics: false
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
 
-# Dependencies
-markdown: kramdown
-highlighter: rouge
-#gems:
-#  - jekyll-last-modified-at
+# Comments
+disqus_shortname:   pascalschulthess
 
-# Permalinks
-permalink: pretty
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+email:              pascal@schulthess.io
+twitter:            hellopascal
+facebook:           hellopascalschulthess
+github:             pascalschulthess
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:           pascalschulthess
+#xing:              username
+instagram:          pascalschulthess
+#lastfm:            username
+#tumblr:            username
+#pinterest:         username
+#foursquare:        username
+#steam:              username
+#dribbble:          username
+#youtube:           username
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
