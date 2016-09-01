@@ -1,63 +1,40 @@
 ---
-layout: base
+layout: default
 ---
-<div class="wrapper">
-	<header>
-		{% if site.compass.logo %}
-		<div class="logo-container">
-			<a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
-		</div>
-		{% endif %}
 
-		{% if site.compass.author %}
-		<div class="author-container">
-			<h1>{{ site.compass.author }}</h1>
-		</div>
-			{% endif %}
+<div class="main-post-list">
 
-			{% if site.compass.tagline %}
-			<div class="tagline-container">
-				<p>{{ site.compass.tagline }}</p>
-			</div>
-			{% endif %}
-			<div class="address-container">
-				<p><a href="mailto:p.schulthess@lacdr.leidenuniv.nl">p.schulthess@lacdr.leidenuniv.nl</a></p>
-				<p>+31 71 527 4428</p>
-				<p>Leiden University<br>Leiden Academic Center for Drug Research (LACDR)<br>Gorlaeus Laboratories<br>Einsteinweg 55, 2333 CC Leiden<br>The Netherlands</p>
-			</div>
-			<div class="icon-container">
-				<a href="https://de.linkedin.com/in/pascalschulthess">
-					<span class="fa-stack">
-						<i class="fa fa-circle fa-stack-2x"></i>
-						<i class="fa fa-stack-1x fa-linkedin fa-inverse"></i>
-					</span>
-				</a>
-				<a href="https://twitter.com/hellopascal">
-					<span class="fa-stack">
-						<i class="fa fa-circle fa-stack-2x"></i>
-						<i class="fa fa-stack-1x fa-twitter fa-inverse"></i>
-					</span>
-				</a>
-				<a href="https://github.com/pascalschulthess">
-					<span class="fa-stack">
-						<!--<i class="fa fa-circle fa-stack-2x fa-inverse"></i>-->
-						<i class="fa fa-stack-2x fa-github"></i>
-					</span>
-				</a>
-				<a href="https://www.researchgate.net/profile/Pascal_Schulthess2">
-					<span class="fa-stack">
-						<i class="fa fa-circle fa-stack-2x"></i>
-						<i class="ai fa fa-stack-1x ai-researchgate fa-inverse ai-stack"></i>
-					</span>
-				</a>
-			</div>
-		</header>
-		<main>
-			{% if site.compass.include_content %}
-			<div class="content">
-				{% include content.html %}
-			</div>
-			{% endif %}
-		</main>
-	</div>
-	<!--<script src="javascripts/scale.fix.js"></script>-->
+  <ol class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
+        <div class="post-list__meta">
+          <time datetime="{{ post.date | date: "%-d %b %Y" }}" class="post-list__meta--date date">
+            {{ post.date | date: "%-d %b %Y" }}
+          </time>
+          &#8226;
+          <span class="post-meta__tags">
+            on {% for tag in post.tags %}
+            <a href="{{ site.baseurl }}tags/#{{ tag }}">{{ tag }}</a>
+            {% endfor %}
+          </span>
+          &#8226;
+          <span class="post-meta__categories">
+            in {% for category in post.categories %}
+            <a href="{{ site.baseurl }}categories/#{{ category }}">{{ category }}</a>
+            {% endfor %}
+          </span>
+        </div>
+        <hr class="post-list__divider">
+      </li>
+    {% endfor %}
+  </ol>
+
+  <hr class="post-list__divider ">
+
+  {% if paginator.previous_page or paginator.next_page %}
+      {% include pagination.html %}
+  {% endif %}
+
+</div>

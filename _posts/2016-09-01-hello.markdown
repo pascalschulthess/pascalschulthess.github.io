@@ -1,0 +1,12 @@
+---
+title:  "Hello"
+date:   2016-09-01 12:38:23
+comments: false
+categories: [internal]
+tags: [blog]
+---
+For already about 10 years I've been now having a blog. In the last couple of years it's been more off than on. Now, I'd like to switch it back on again. So, welcome.
+
+In my mind, this site mainly serves as a public CV. But from time to time, I also like to share things I come across during my research, e.g. `R` code snippets I implemented to solve a specific problem.
+
+For now, I don't know where this blog project should be heading, but I guess, we'll just have to wait and see...

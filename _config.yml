@@ -1,28 +1,40 @@
-# general configuration
-url: http://pascalschulthess.de
-baseurl: ''
+# Site settings
+title: Pascal Schulthess
+description: 'System Biologist and Control Theorist'
+url: 'http://pascal.schulthess.io'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+disqus_shortname: 'pascalschulthess'
 
-# compass configuration
-compass:
-  # an avatar or logo (optional)
-  logo: "/images/me.jpg"
-  # author will appear under the avatar (optional)
-  author: "Pascal Schulthess"
-  # tagline will appear under the title (optional)
-  tagline: "Systems Biologist and Control Theorist"
-  # if include_content is true, the contents of the content.html include will be
-  # added right above the generated item list, if present
-  include_content: true
-  # if include_analytics is true, the content of the analytics.html include will
-  # be added at the end of the <head> section. You can add your Google Analytics
-  # Tracking Code to that file.
-  include_analytics: false
+author:
+  name: 'Pascal Schulthess'
+  email: pascalschulthess@protonmail.com
+  twitter_username: hellopascal
+  facebook_username: hellopascalschulthess
+  github_username:  pascalschulthess
+  linkedin_username:  pascalschulthess
 
-# Dependencies
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
-#gems:
-#  - jekyll-last-modified-at
+timezone: Europe/Amsterdam
 
-# Permalinks
-permalink: pretty
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
