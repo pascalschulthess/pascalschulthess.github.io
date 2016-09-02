@@ -10,3 +10,4 @@ How to maintain the site:
 2. check updated site locally with `bundle exec jekyll serve`
 
 3. commit changes and push to github
+
