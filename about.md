@@ -12,31 +12,43 @@ Coming from an engineering discipline, I'm interested in applying systems theory
 
 ## Publications
 
-**Schulthess, P.**, Löffler A., Vetter S., Kreft L., Schwarz M., Braeuning A., Blüthgen N. Signal Integration by the _CYP1A1_ Promoter - A Quantitative Study. _Nucleic Acids Research_, 43:5318–5330, 2015. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25934798)
+**Schulthess, P.**, Löffler A., Vetter S., Kreft L., Schwarz M., Braeuning A., Blüthgen N. Signal Integration by the _CYP1A1_ Promoter - A Quantitative Study. _Nucleic Acids Research_, 43:5318–5330, 2015 &#8226; [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25934798) &#8226; [pdf]({{ site.baseurl }}data/papers/paper-schulthess-2015.pdf)
 
-Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y., Tikk D., Blüthgen N., Leser U. Computer-assisted curation of a human regulatory core network from the biological literature. _Bioinformatics_, 15;31(8):1258-66, 2015. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25433699)
+Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y., Tikk D., Blüthgen N., Leser U. Computer-assisted curation of a human regulatory core network from the biological literature. _Bioinformatics_, 15;31(8):1258-66, 2015 &#8226; [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25433699) &#8226; [pdf]({{ site.baseurl }}data/papers/paper-thomas-2015.pdf)
 
-**Schulthess, P.** and Blüthgen, N. From Reaction Networks to Information Flows - Using Modular Response Analysis to Track Information in Signaling Networks. _Methods Enzymology_, 500:397-409, 2011. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/21943908)
+**Schulthess, P.** and Blüthgen, N. From Reaction Networks to Information Flows - Using Modular Response Analysis to Track Information in Signaling Networks. _Methods Enzymology_, 500:397-409, 2011 &#8226; [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/21943908) &#8226; [pdf]({{ site.baseurl }}data/papers/paper-schulthess-2011.pdf)
 
 
-## Conference Talks
+## Talks
 
 09/2016 - _Frequency-domain response analysis for quantitative systems pharmacology models_ @ Conference on Complex Systems, Amsterdam, The Netherlands
 
-03/2013 - _Binding Site Cooperativity and Dual Signal Integration in CYP1A1 Induction_ @ 79th Annual Conference of the German Society for experimental and clinical Pharmacology and Toxicology, Halle (Saale), Germany
+03/2016 - _Thermodynamic modeling explains the regulation of CYP1A1 expression in the liver_ Ph.D. Defense @ Institude for Theoretical Biology, Humboldt University Berlin, Berlin, Germany &#8226; [pdf]({{ site.baseurl }}data/talks/talk-schulthess-phd-defense-2016.pdf)
 
-07/2012 - _Cooperativity between Aryl Hydrocarbon Receptor and β-catenin Binding Sites in Hepatocytes_ @ 4th Conference on Systems Biology of Mammalian Cells, Leipzig, Germany
+03/2013 - _Binding Site Cooperativity and Dual Signal Integration in CYP1A1 Induction_ @ 79th Annual Conference of the German Society for experimental and clinical Pharmacology and Toxicology, Halle (Saale), Germany &#8226; [pdf]({{ site.baseurl }}data/talks/talk-schulthess-dgpt-2013.pdf)
 
-10/2010 - _From Reaction Networks to Information Flow – Using Modular Response Analysis to Track Information in Signaling Networks_ @ 11th International Conference on Systems Biology, Edinburgh, Scotland
+07/2012 - _Cooperativity between Aryl Hydrocarbon Receptor and β-catenin Binding Sites in Hepatocytes_ @ 4th Conference on Systems Biology of Mammalian Cells, Leipzig, Germany &#8226; [pdf]({{ site.baseurl }}data/talks/talk-schulthess-sbmc-2012.pdf)
+
+10/2010 - _From Reaction Networks to Information Flow – Using Modular Response Analysis to Track Information in Signaling Networks_ @ 11th International Conference on Systems Biology, Edinburgh, Scotland &#8226; [pdf]({{ site.baseurl }}data/talks/talk-schulthess-icsb-2010.pdf)
+
+## Posters
+
+07/2015 - _Signal Integration by the CYP1A1 Promoter — A Quantitative Study_ @ 40th FEBS Congress, Berlin, Germany &#8226; [pdf]({{ site.baseurl }}data/posters/poster-schulthess-febs-2015.pdf)
+
+05/2014 - _Cooperativity between Aryl Hydrocarbon Receptor and β-catenin binding sites in CYP1A1 Induction_ @ 5th Conference on Systems Biology of Mammalian Cells, Berlin, Germany &#8226; [pdf]({{ site.baseurl }}data/posters/poster-schulthess-sbmc-2014.pdf)
+
+10/2010 - _From Reaction Networks to Information Flow – Using Modular Response Analysis to Track Information in Signaling Networks_ @ 11th International Conference on Systems Biology, Edinburgh, Scotland &#8226; [pdf]({{ site.baseurl }}data/posters/poster-schulthess-icsb-2010.pdf)
 
 ## Teaching
-2010-2012 - Teaching assistant in _Data analysis and numerical methods_, Institute for Theoretical Biology, Humboldt University of Berlin
+2015-2016 - Teaching assistant in _Farmacologie_, Division of Pharmacology, Cluster Systems Pharmacology, Leiden Academic Center for Drug Research, Leiden University, The Netherlands
+
+2010-2012 - Teaching assistant in _Data analysis and numerical methods_, Institute for Theoretical Biology, Humboldt University of Berlin, Germany
 
 ## Education
 
 2009-2016 - PhD in Theoretical Biophysics, Charité -- Universitätsmedizin Berlin, Germany
 
-* PhD Thesis: Thermodynamic modeling explains the regulation of CYP1A1 expression in the liver. [Pub](http://edoc.hu-berlin.de/docviews/abstract.php?lang=ger&id=42531)
+* PhD Thesis: Thermodynamic modeling explains the regulation of CYP1A1 expression in the liver &#8226; [eDoc](http://edoc.hu-berlin.de/docviews/abstract.php?lang=ger&id=42531)
 * Supervisors: Prof. Dr. N. Blüthgen, Computational Modeling in Medicine, Institute for Pathology, Charité -- Universitätsmedizin Berlin, Germany
 
 2002-2009 - Diploma in Engineering Cybernetics, University of Stuttgart, Germany
