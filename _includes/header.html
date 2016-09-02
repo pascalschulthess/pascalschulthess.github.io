@@ -22,8 +22,6 @@
             <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}about" title="link to {{ site.title }} about" class="blog-button">About</a></li>
               <li class="navigation__item"><a href="{{ site.baseurl }}#blog" title="link to {{ site.title }} blog" class="blog-button">Blog</a></li>
-              <!-- <li class="navigation__item"><a href="/about" title="link to {{ site.title }} about" class="blog-button">About</a></li> -->
-              <!-- <li class="navigation__item"><a href="#blog" title="link to {{ site.title }} blog" class="blog-button">Blog</a></li> -->
             </ul>
           </nav>
 
@@ -66,6 +64,26 @@
                 <a href="https://www.github.com/{{ site.author.github_username }}" title="{{ site.author.github_username }} on GitHub" target="_blank">
                   <i class="icon icon-social-github"></i>
                   <span class="label">GitHub</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.researchgate_username %}
+              <!-- ResearchGate -->
+              <!-- <li class="navigation__item">
+                <a href="https://www.researchgate.net/profile/{{ site.author.researchgate_username }}" title="{{ site.author.researchgate_username }} on ResearchGate" target="_blank">
+                  <i class="ai ai-orcid ai-2x"></i>
+                  <span class="label">ResearchGate</span>
+                </a>
+              </li> -->
+            {% endif %}
+
+            {% if site.author.researchgate_username %}
+              <!-- InstaGram -->
+              <li class="navigation__item">
+                <a href="https://www.instagram.com/{{ site.author.instagram_username }}" title="{{ site.author.instagram_username }} on Instagram" target="_blank">
+                  <i class="icon icon-social-instagram"></i>
+                  <span class="label">Instagram</span>
                 </a>
               </li>
             {% endif %}
