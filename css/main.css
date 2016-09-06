@@ -64,9 +64,15 @@ pre.highlight code,
   background-position: center;
 }
 
-.navigation--social a .fa, .navigation--social a .ai {
-  display: block;
+.navigation--social a .fa,
+.navigation--social a .ai {
+  /*display: block;*/
   border-radius: 50%;
   width: 1.1em;
   height: 1.1em;
   font-size: 1.6em; }
+
+.btn-mobile-menu__icon,
+.btn-mobile-close__icon {
+  	top: 6px;
+  	font-size: 30px;}
