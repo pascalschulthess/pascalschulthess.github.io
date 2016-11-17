@@ -58,6 +58,16 @@
                 </li>
               {% endif %}
 
+              {% if site.author.slideshare_username %}
+                <!-- GitHub -->
+                <li class="navigation__item">
+                  <a href="http://www.slideshare.net/{{ site.author.slideshare_username }}" title="Find me on SlideShare" target="_blank">
+                    <i class="fa fa-slideshare"></i>
+                    <span class="label">SlideShare</span>
+                  </a>
+                </li>
+              {% endif %}
+
               {% if site.author.github_username %}
                 <!-- GitHub -->
                 <li class="navigation__item">
