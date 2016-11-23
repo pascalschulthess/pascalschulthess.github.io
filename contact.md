@@ -15,10 +15,10 @@ For my full contact details please download [my vCard]({{ site.baseurl }}data/Pa
 For encrypted communication please use my private e-mail address given in my vCard. My public PGP key and its Fingerprint are given below. You can also use my mobile phone number with the brilliant [Signal App](https://whispersystems.org/).
 
 ## PGP
- ```
- -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: OpenPGP.js v1.2.0
-Comment: http://openpgpjs.org
+
+     -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: OpenPGP.js v1.2.0
+    Comment: http://openpgpjs.org
 
 xsFNBFfEOJcBEADk9OL4RzFx+3hvdsDzRNGlD5Fr5D50gIuX5qeUZdKGeOkZ
 WSR7PIa0GjWtDjiG4vaFlPb4qDVLapT26nCN+Uli8WW/iXwuOpOK2CmrlVyI
@@ -74,6 +74,7 @@ oA2zwRNuck0h/YtUyleiDuC5oFiW1xOhrK8DO8gsgMg5/eaJnRP4FeLeR2t2
  ```
 
  Fingerprint
+
  ```
  0d72e025fd181bb9156be1881f9fdacf15f34721
  ```
