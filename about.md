@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-I'm currently a postdoctoral fellow at the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) where I apply of engineering methods to systems pharmacology to study the effects on drug dosing frequencies on drug effects. This project is supervised by Prof. Dr. Piet Hein van der Graaf (LACDR and [Certara](http://certara.com)) and carried out in close cooperation with [AstraZeneca](http://astrazeneca.com).
+I'm currently a postdoctoral fellow at the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) where I apply engineering methods to systems pharmacology to study the effects of drug dosing frequencies on drug effects. This project is supervised by Prof. Dr. Piet Hein van der Graaf (LACDR and [Certara](http://certara.com)) and carried out in close cooperation with [AstraZeneca](http://astrazeneca.com).
 
 ## Research Interest
 
