@@ -33,6 +33,8 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 
 ## Posters
 
+06/2017 - _Frequency-domain response analysis for quantitative systems pharmacology models_ @ 26th Page Meeting, Budapest, Hungary &#8226; [pdf]({{ site.baseurl }}data/posters/poster-schulthess-page-2017.pdf)
+
 07/2015 - _Signal Integration by the CYP1A1 Promoter — A Quantitative Study_ @ 40th FEBS Congress, Berlin, Germany &#8226; [pdf]({{ site.baseurl }}data/posters/poster-schulthess-febs-2015.pdf)
 
 05/2014 - _Cooperativity between Aryl Hydrocarbon Receptor and β-catenin binding sites in CYP1A1 Induction_ @ 5th Conference on Systems Biology of Mammalian Cells, Berlin, Germany &#8226; [pdf]({{ site.baseurl }}data/posters/poster-schulthess-sbmc-2014.pdf)
