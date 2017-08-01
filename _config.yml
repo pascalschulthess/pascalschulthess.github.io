@@ -9,10 +9,13 @@ disqus_shortname: 'pascalschulthess'
 author:
   name: 'Pascal Schulthess'
   twitter_username: hellopascal
+#  facebook_username: hellopascalschulthess
   github_username:  pascalschulthess
   linkedin_username:  pascalschulthess
   researchgate_username: Pascal_Schulthess2
+# instagram_username: pascalschulthess
   orcid_username: 0000-0002-7768-8507
+  slideshare_username: PascalSchulthess1
 
 defaults:
   -
