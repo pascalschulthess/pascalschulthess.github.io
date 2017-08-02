@@ -21,7 +21,7 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 
 ## Talks
 
-09/2016 - _Frequency-domain response analysis for quantitative systems pharmacology models_ @ Conference on Complex Systems, Amsterdam, The Netherlands
+09/2016 - _Frequency-domain response analysis for quantitative systems pharmacology models_ @ Conference on Complex Systems, Amsterdam, The Netherlands &#8226; [pdf]({{ site.baseurl }}data/talks/talk-schulthess-ccs-2016.pdf)
 
 03/2016 - _Thermodynamic modeling explains the regulation of CYP1A1 expression in the liver_ Ph.D. Defense @ Institude for Theoretical Biology, Humboldt University Berlin, Berlin, Germany &#8226; [pdf]({{ site.baseurl }}data/talks/talk-schulthess-phd-defense-2016.pdf)
 
