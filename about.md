@@ -12,11 +12,13 @@ Coming from an engineering discipline, I'm interested in applying systems theory
 
 ## Publications
 
+**Schulthess, P.**, Post T. M., Yates J., van der Graaf P. H. Frequency-domain response analysis for quantitative systems pharmacology models. _CPT: Pharmacometrics & Systems Pharmacology_, accepted &#8226; [doi](https://doi.org/10.1002/psp4.12266)
+
 **Schulthess, P.**, Löffler A., Vetter S., Kreft L., Schwarz M., Braeuning A., Blüthgen N. Signal Integration by the _CYP1A1_ Promoter - A Quantitative Study. _Nucleic Acids Research_, 43:5318–5330, 2015 &#8226; [doi](https://doi.org/10.1093/nar/gkv423) &#8226; [pdf]({{ site.baseurl }}data/papers/paper-schulthess-2015.pdf)
 
 Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y., Tikk D., Blüthgen N., Leser U. Computer-assisted curation of a human regulatory core network from the biological literature. _Bioinformatics_, 15;31(8):1258-66, 2015 &#8226; [doi](https://doi.org/10.1093/bioinformatics/btu795) &#8226; [pdf]({{ site.baseurl }}data/papers/paper-thomas-2015.pdf)
 
-**Schulthess, P.** and Blüthgen, N. From Reaction Networks to Information Flows - Using Modular Response Analysis to Track Information in Signaling Networks. _Methods Enzymology_, 500:397-409, 2011 &#8226; [doi](https://doi.org/10.1016/B978-0-12-385118-5.00020-7) &#8226; [pdf]({{ site.baseurl }}data/papers/paper-schulthess-2011.pdf)
+**Schulthess, P.** and Blüthgen, N. From Reaction Networks to Information Flows - Using Modular Response Analysis to Track Information in Signaling Networks. _Methods in Enzymology_, 500:397-409, 2011 &#8226; [doi](https://doi.org/10.1016/B978-0-12-385118-5.00020-7) &#8226; [pdf]({{ site.baseurl }}data/papers/paper-schulthess-2011.pdf)
 
 
 ## Talks
