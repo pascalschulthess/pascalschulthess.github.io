@@ -12,7 +12,7 @@ Coming from an engineering discipline, I'm interested in applying systems theory
 
 ## Publications
 
-**Schulthess, P.**, Post T. M., Yates J., van der Graaf P. H. Frequency-domain response analysis for quantitative systems pharmacology models. _CPT: Pharmacometrics & Systems Pharmacology_, accepted &#8226; [doi](https://doi.org/10.1002/psp4.12266)
+**Schulthess, P.**, Post T. M., Yates J., van der Graaf P. H. Frequency-Domain Response Analysis for Quantitative Systems Pharmacology Models. _CPT: Pharmacometrics & Systems Pharmacology_, accepted &#8226; [doi](https://doi.org/10.1002/psp4.12266) &#8226; [pdf]({{ site.baseurl }}data/papers/paper-schulthess-2017.pdf)
 
 **Schulthess, P.**, Löffler A., Vetter S., Kreft L., Schwarz M., Braeuning A., Blüthgen N. Signal Integration by the _CYP1A1_ Promoter - A Quantitative Study. _Nucleic Acids Research_, 43:5318–5330, 2015 &#8226; [doi](https://doi.org/10.1093/nar/gkv423) &#8226; [pdf]({{ site.baseurl }}data/papers/paper-schulthess-2015.pdf)
 
