@@ -12,6 +12,8 @@ Coming from an engineering discipline, I'm interested in applying systems theory
 
 ## Publications
 
+**Schulthess P.**, van Wijk R. C., Krekels E. H. J., Yates J. W. T., Spaink H. P. & van der Graaf, P. H. Outside‐In Systems Pharmacology Combines Innovative Computational Methods With High‐Throughput Whole Vertebrate Studies. _CPT Pharmacometrics & Systems Pharmacology_, X:XXX-XXX, 2018 &#8226; [doi](https://doi.org/10.1002/psp4.12297) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2018.pdf)
+
 **Schulthess P.**, Post T. M., Yates J. & van der Graaf P. H. Frequency-Domain Response Analysis for Quantitative Systems Pharmacology Models. _CPT Pharmacometrics & Systems Pharmacology_, 7:111–123, 2017 &#8226; [doi](https://doi.org/10.1002/psp4.12266) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2017.pdf)
 
 **Schulthess, P.**, Löffler A., Vetter S., Kreft L., Schwarz M., Braeuning A., Blüthgen N. Signal Integration by the _CYP1A1_ Promoter - A Quantitative Study. _Nucleic Acids Research_, 43:5318–5330, 2015 &#8226; [doi](https://doi.org/10.1093/nar/gkv423) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2015.pdf)
