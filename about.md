@@ -37,6 +37,8 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 
 ## Posters
 
+05/2018 - _Frequency-domain derived optimisation of cell-cycle specific cancer treatment_ @ 27th Page Meeting, Montreux, Switzerland &#8226; [pdf]({{ site.url }}/data/posters/poster-schulthess-page-2018.pdf)
+
 06/2017 - _Frequency-domain response analysis for quantitative systems pharmacology models_ @ 26th Page Meeting, Budapest, Hungary &#8226; [pdf]({{ site.url }}/data/posters/poster-schulthess-page-2017.pdf)
 
 07/2015 - _Signal Integration by the CYP1A1 Promoter — A Quantitative Study_ @ 40th FEBS Congress, Berlin, Germany &#8226; [pdf]({{ site.url }}/data/posters/poster-schulthess-febs-2015.pdf)
