@@ -71,7 +71,7 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 * Student Thesis: Modeling and Simulation of the Mitochondrial Electron Transport Chain
 * Supervisors: Dr. M. Cascante, Dr. V. Selivanov, Integrative Biochemistry and Cancer Therapy, University of Barcelona, Spain
 
-## Working Experience
+## Work Experience
 
 2009 - Internship @ Computational Systems Biology Group, Bayer Technology Services GmbH, Leverkusen, Germany
 
