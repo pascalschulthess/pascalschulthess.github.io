@@ -9,7 +9,7 @@ EMAIL;type=INTERNET;type=WORK:p.schulthess@lacdr.leidenuniv.nl
 TEL;type=CELL;type=VOICE;type=pref:+31657808046
 TEL;type=WORK;type=VOICE:+31715276211
 ADR;type=HOME;type=pref:;;Stuyvesantstraat 254;Den Haag;;2593 GV;The Netherlands
-ADR;type=WORK:;;Leiden University\nLeiden Academic Center for Drug Research\nCluster Systems Pharmacology\nDivision of Pharmacology\n\nP.O. Box 9502;Leiden;;2300 RA;The Netherlands
+ADR;type=WORK:;;Leiden University\nLeiden Academic Center for Drug Research\nSystems Biomedicine and Pharmacology\n\nP.O. Box 9502;Leiden;;2300 RA;The Netherlands
 item1.URL;type=pref:http://pascal.schulthess.io
 item1.X-ABLabel:_$!<HomePage>!$_
 URL;type=WORK:https://www.universiteitleiden.nl/en/staffmembers/pascal-schulthess
