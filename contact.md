@@ -12,7 +12,7 @@ If you can't talk to me in person, please use e-mail. If you take a second to co
 
 For my full contact details please download my vCard:
 
-<i class="fa  fa-address-card-o"></i> &nbsp; [PascalSchulthess.vcf]({{ site.baseurl }}data/PascalSchulthess.vcf).
+<i class="fa  fa-address-card-o"></i> &nbsp; [PascalSchulthess.vcf]({{ site.baseurl }}/data/PascalSchulthess.vcf).
 
 For encrypted communication please use my private e-mail address given in my vCard. My public PGP key and its Fingerprint are given below. You can also use my mobile phone number with the brilliant [Signal App](https://whispersystems.org/).
 
