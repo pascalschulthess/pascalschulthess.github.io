@@ -74,7 +74,7 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 10/2010 - _From Reaction Networks to Information Flow – Using Modular Response Analysis to Track Information in Signaling Networks_ @ 11th International Conference on Systems Biology, Edinburgh, Scotland &#8226; [pdf]({{ site.url }}/data/posters/poster-schulthess-icsb-2010.pdf)
 
 ## Teaching
-2017 - Lecturer in _Quantitative Pharmacology_, Division of Pharmacology, Cluster Systems Pharmacology, Leiden Academic Center for Drug Research, Leiden University, The Netherlands
+2017-2019 - Lecturer in _Quantitative Pharmacology_, Division of Pharmacology, Cluster Systems Pharmacology, Leiden Academic Center for Drug Research, Leiden University, The Netherlands
 
 2015-2016 - Teaching assistant in _Farmacologie_, Division of Pharmacology, Cluster Systems Pharmacology, Leiden Academic Center for Drug Research, Leiden University, The Netherlands
 
