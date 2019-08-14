@@ -4,15 +4,39 @@ title: "About"
 permalink: /about/
 ---
 
-I'm currently a postdoctoral fellow at the Leiden Academic Center for Drug Research ([LACDR](http://lacdr.nl)) where I apply engineering methods to systems pharmacology to study the effects of drug dosing frequencies on drug effects. This project is supervised by Prof. Dr. Piet Hein van der Graaf (LACDR and [Certara](http://certara.com)) and carried out in close cooperation with [AstraZeneca](http://astrazeneca.com).
+I'm currently a Systems Pharmacology Expert at [LYO-X GmbH](https://www.lyo-x.com/) where I combine pharmacological principles and statistical rigor in population PK/PD modeling with mechanism-based approaches required for extrapolation to support decision making at critical development points and for regulatory interaction. 
 
-## Research Interest
+## Work Experience
 
-Coming from an engineering discipline, I'm interested in applying systems theory to applications in biology and pharmacology.
+2019-now - Systems Pharmacology Export @ LYO-X GmbH, Allschwil, Switzerland
+
+* Topic: Development of semi-mechanistic models of drug pharmacokinetics and pharmacodynamics to support decision making at critical development points and for regulatory interaction.
+
+2016-2019 - Postdoctoral Research Fellow @ Division of Systems Biomedicine & Pharmacology, Leiden Academic Centre for Drug Research, Leiden University, Leiden, The Netherlands
+
+* Topic: Application of engineering methods to systems pharmacology models to study the effects of drug dosing frequencies on drug effects.
+* Supervisors: Prof. Dr. P. H. van der Graaf, Dr. J. Yates, Prof. Dr. V. Rottschäfer, Dr. T. Post
+
+2009 - Internship @ Computational Systems Biology Group, Bayer Technology Services GmbH, Leverkusen, Germany
+
+* Topic: Implementation and analysis of a complex mathematical model of the photosynthesis mechanism in C3-plants
+* Supervisors: Dr. J. Lippert, Dr. L. Küpfer, Dr. T. Eissing
+
+2007 - Internship @ Insilico Biotechnology AG, Stuttgart, Germany
+
+* Topic: Modeling of the mitochondrial respiratory chain with focus on biological feasibility by the incorporation and maintenance of publicly available databases.
+* Supervisor: K. Mauch
+
+2005-2006 - Internship @ Systems and Control Group, TAO Technologies GmbH, Stuttgart, Germany
+
+* Topic: Development of software tests and simulations to analyze and optimize real-time hardware for components in autonomic aircrafts.
+* Supervisor: Prof. Dr. B. Kröplin
 
 ## Publications
 
-**Schulthess P.**, van Wijk R. C., Krekels E. H. J., Yates J. W. T., Spaink H. P. & van der Graaf, P. H. Outside‐In Systems Pharmacology Combines Innovative Computational Methods With High‐Throughput Whole Vertebrate Studies. _CPT Pharmacometrics & Systems Pharmacology_, 7:285-287, 2018 &#8226; [doi](https://doi.org/10.1002/psp4.12297) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2018.pdf)
+**Schulthess P.** , Rottschäfer V. , Yates J. W. T. & van der Graaf P. H. Optimization of cancer treatment in the frequency domain. _AAPS J_, 2019 (Accepted)
+
+**Schulthess P.**, van Wijk R. C., Krekels E. H. J., Yates J. W. T., Spaink H. P. & van der Graaf P. H. Outside‐In Systems Pharmacology Combines Innovative Computational Methods With High‐Throughput Whole Vertebrate Studies. _CPT Pharmacometrics & Systems Pharmacology_, 7:285-287, 2018 &#8226; [doi](https://doi.org/10.1002/psp4.12297) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2018.pdf)
 
 **Schulthess P.**, Post T. M., Yates J. & van der Graaf P. H. Frequency-Domain Response Analysis for Quantitative Systems Pharmacology Models. _CPT Pharmacometrics & Systems Pharmacology_, 7:111–123, 2017 &#8226; [doi](https://doi.org/10.1002/psp4.12266) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2017.pdf)
 
@@ -72,23 +96,6 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 
 * Student Thesis: Modeling and Simulation of the Mitochondrial Electron Transport Chain
 * Supervisors: Dr. M. Cascante, Dr. V. Selivanov, Integrative Biochemistry and Cancer Therapy, University of Barcelona, Spain
-
-## Work Experience
-
-2009 - Internship @ Computational Systems Biology Group, Bayer Technology Services GmbH, Leverkusen, Germany
-
-* Topic: Implementation and analysis of a complex mathematical model of the photosynthesis mechanism in C3-plants
-* Supervisors: Dr. J. Lippert, Dr. L. Küpfer, Dr. T. Eissing
-
-2007 - Internship @ Insilico Biotechnology AG, Stuttgart, Germany
-
-* Topic: Modeling of the mitochondrial respiratory chain with focus on biological feasibility by the incorporation and maintenance of publicly available databases.
-* Supervisor: K. Mauch
-
-2005-2006 - Internship @ Systems and Control Group, TAO Technologies GmbH, Stuttgart, Germany
-
-* Topic: Development of software tests and simulations to analyze and optimize real-time hardware for components in autonomic aircrafts.
-* Supervisor: Prof. Dr. B. Kröplin
 
 ## Scholarships & Awards
 
