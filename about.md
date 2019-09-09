@@ -20,7 +20,7 @@ I'm currently a Systems Pharmacology Expert at [LYO-X GmbH](https://www.lyo-x.co
 2009 - Internship @ Computational Systems Biology Group, Bayer Technology Services GmbH, Leverkusen, Germany
 
 * Topic: Implementation and analysis of a complex mathematical model of the photosynthesis mechanism in C3-plants
-* Supervisors: Dr. J. Lippert, Dr. L. Küpfer, Dr. T. Eissing
+* Supervisors: Dr. J. Lippert, Dr. L. Küpfer, Dr. T. Eissing
 
 2007 - Internship @ Insilico Biotechnology AG, Stuttgart, Germany
 
@@ -30,7 +30,7 @@ I'm currently a Systems Pharmacology Expert at [LYO-X GmbH](https://www.lyo-x.co
 2005-2006 - Internship @ Systems and Control Group, TAO Technologies GmbH, Stuttgart, Germany
 
 * Topic: Development of software tests and simulations to analyze and optimize real-time hardware for components in autonomic aircrafts.
-* Supervisor: Prof. Dr. B. Kröplin
+* Supervisor: Prof. Dr. B. Kröplin
 
 ## Publications
 
@@ -40,16 +40,16 @@ I'm currently a Systems Pharmacology Expert at [LYO-X GmbH](https://www.lyo-x.co
 
 **Schulthess P.**, Post T. M., Yates J. & van der Graaf P. H. Frequency-Domain Response Analysis for Quantitative Systems Pharmacology Models. _CPT Pharmacometrics & Systems Pharmacology_, 7:111–123, 2017 &#8226; [doi](https://doi.org/10.1002/psp4.12266) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2017.pdf)
 
-**Schulthess, P.**, Löffler A., Vetter S., Kreft L., Schwarz M., Braeuning A., Blüthgen N. Signal Integration by the _CYP1A1_ Promoter - A Quantitative Study. _Nucleic Acids Research_, 43:5318–5330, 2015 &#8226; [doi](https://doi.org/10.1093/nar/gkv423) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2015.pdf)
+**Schulthess, P.**, Löffler A., Vetter S., Kreft L., Schwarz M., Braeuning A., Blüthgen N. Signal Integration by the _CYP1A1_ Promoter - A Quantitative Study. _Nucleic Acids Research_, 43:5318–5330, 2015 &#8226; [doi](https://doi.org/10.1093/nar/gkv423) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2015.pdf)
 
-Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y., Tikk D., Blüthgen N., Leser U. Computer-assisted curation of a human regulatory core network from the biological literature. _Bioinformatics_, 15;31(8):1258-66, 2015 &#8226; [doi](https://doi.org/10.1093/bioinformatics/btu795) &#8226; [pdf]({{ site.url }}/data/papers/paper-thomas-2015.pdf)
+Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y., Tikk D., Blüthgen N., Leser U. Computer-assisted curation of a human regulatory core network from the biological literature. _Bioinformatics_, 15;31(8):1258-66, 2015 &#8226; [doi](https://doi.org/10.1093/bioinformatics/btu795) &#8226; [pdf]({{ site.url }}/data/papers/paper-thomas-2015.pdf)
 
-**Schulthess, P.** and Blüthgen, N. From Reaction Networks to Information Flows - Using Modular Response Analysis to Track Information in Signaling Networks. _Methods in Enzymology_, 500:397-409, 2011 &#8226; [doi](https://doi.org/10.1016/B978-0-12-385118-5.00020-7) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2011.pdf)
+**Schulthess, P.** and Blüthgen, N. From Reaction Networks to Information Flows - Using Modular Response Analysis to Track Information in Signaling Networks. _Methods in Enzymology_, 500:397-409, 2011 &#8226; [doi](https://doi.org/10.1016/B978-0-12-385118-5.00020-7) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2011.pdf)
 
 
 ## Talks
 
-11/2018 - _Frequency-domain derived optimisation of treatment modalities for three tumour growth models_ @ Pharmacokinetics UK (PKUK), Manchester, United Kingdom
+11/2018 - _Frequency-domain derived optimisation of treatment modalities for three tumour growth models_ @ Pharmacokinetics UK (PKUK), Manchester, United Kingdom &#8226; [pdf]({{ site.baseurl }}data/talks/talk-schulthess-pkuk-2018.pdf)
 
 09/2016 - _Frequency-domain response analysis for quantitative systems pharmacology models_ @ Conference on Complex Systems, Amsterdam, The Netherlands &#8226; [pdf]({{ site.baseurl }}data/talks/talk-schulthess-ccs-2016.pdf)
 
