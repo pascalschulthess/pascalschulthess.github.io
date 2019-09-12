@@ -34,7 +34,7 @@ I'm currently a Systems Pharmacology Expert at [LYO-X GmbH](https://www.lyo-x.co
 
 ## Publications
 
-**Schulthess P.** , Rottschäfer V. , Yates J. W. T. & van der Graaf P. H. Optimization of cancer treatment in the frequency domain. _AAPS J_, 2019 (Accepted)
+**Schulthess P.** , Rottschäfer V. , Yates J. W. T. & van der Graaf P. H. Optimization of cancer treatment in the frequency domain. _AAPS J_, 21:106 2019 &#8226; [doi](https://doi.org/10.1208/s12248-019-0372-4) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2019.pdf)
 
 **Schulthess P.**, van Wijk R. C., Krekels E. H. J., Yates J. W. T., Spaink H. P. & van der Graaf P. H. Outside‐In Systems Pharmacology Combines Innovative Computational Methods With High‐Throughput Whole Vertebrate Studies. _CPT Pharmacometrics & Systems Pharmacology_, 7:285-287, 2018 &#8226; [doi](https://doi.org/10.1002/psp4.12297) &#8226; [pdf]({{ site.url }}/data/papers/paper-schulthess-2018.pdf)
 
