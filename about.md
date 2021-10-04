@@ -4,11 +4,15 @@ title: "About"
 permalink: /about/
 ---
 
-I'm currently a Systems Pharmacology Expert at [LYO-X GmbH](https://www.lyo-x.com/) where I combine pharmacological principles and statistical rigor in population PK/PD modeling with mechanism-based approaches required for extrapolation to support decision making at critical development points and for regulatory interaction. 
+I'm currently a Postdoctoral Researcher at [Hubrecht Institute](https://hubrecht.eu/) where I apply systems identification and biology approaches to cancer and developmental biology. 
 
 ## Work Experience
 
-2019-now - Systems Pharmacology Export @ LYO-X GmbH, Allschwil, Switzerland
+2021-now - Postdoctoral Researcher @ Hubrecht Institute, Utrecht, The Netherlands
+
+* Topic: Identification of signalling dynamics in cancer cells and organoids.
+
+2019-2021 - Systems Pharmacology Export @ LYO-X GmbH, Allschwil, Switzerland
 
 * Topic: Development of semi-mechanistic models of drug pharmacokinetics and pharmacodynamics to support decision making at critical development points and for regulatory interaction.
 
