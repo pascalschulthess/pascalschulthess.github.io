@@ -67,6 +67,8 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 
 ## Posters
 
+11/2022 - _Leveraging signalling dynamics in the small intestine to guide drug scheduling_ @ 29th KWF Cancer Biology Meeting, Lunteren, The Netherlands &#8226; [pdf]({{ site.url }}/data/posters/poster-schulthess-kwfcb-2022.pdf)
+
 05/2018 - _Frequency-domain derived optimisation of cell-cycle specific cancer treatment_ @ 27th Page Meeting, Montreux, Switzerland &#8226; [pdf]({{ site.url }}/data/posters/poster-schulthess-page-2018.pdf)
 
 06/2017 - _Frequency-domain response analysis for quantitative systems pharmacology models_ @ 26th Page Meeting, Budapest, Hungary &#8226; [pdf]({{ site.url }}/data/posters/poster-schulthess-page-2017.pdf)
@@ -78,6 +80,7 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 10/2010 - _From Reaction Networks to Information Flow – Using Modular Response Analysis to Track Information in Signaling Networks_ @ 11th International Conference on Systems Biology, Edinburgh, Scotland &#8226; [pdf]({{ site.url }}/data/posters/poster-schulthess-icsb-2010.pdf)
 
 ## Teaching
+
 2017-2019 - Lecturer in _Quantitative Pharmacology_, Division of Systems Biomedicine & Pharmacology, Leiden Academic Center for Drug Research, Leiden University, The Netherlands
 
 2015-2016 - Teaching assistant in _Farmacologie_, Division of Systems Biomedicine & Pharmacology, Leiden Academic Center for Drug Research, Leiden University, The Netherlands
@@ -101,7 +104,9 @@ Thomas P., Durek P., Solt I., Klinger B., Witzel F., **Schulthess P.** , Mayer Y
 * Student Thesis: Modeling and Simulation of the Mitochondrial Electron Transport Chain
 * Supervisors: Dr. M. Cascante, Dr. V. Selivanov, Integrative Biochemistry and Cancer Therapy, University of Barcelona, Spain
 
-## Scholarships & Awards
+## Grants & Scholarships & Awards
+
+2020 - Unique High Risk Project 13661 with Katharina F. Sonnen - KWF
 
 2015 - PhD Scholarship, Charité - Universitätsmedizin Berlin
 

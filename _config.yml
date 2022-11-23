@@ -1,6 +1,6 @@
 # Site settings
 title: Pascal Schulthess
-description: 'System Biologist and Control Theorist'
+description: 'System Biologist'
 url: 'http://pascal.schulthess.io'
 baseurl:
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,6 +9,7 @@ disqus_shortname: 'pascalschulthess'
 author:
   name: 'Pascal Schulthess'
 #  twitter_username: hellopascal
+  mastodon_username: mstdn.science/@pascalschulthess
 # facebook_username: hellopascalschulthess
   github_username:  pascalschulthess
   linkedin_username:  pascalschulthess

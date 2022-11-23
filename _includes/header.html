@@ -98,6 +98,16 @@
                 </li>
               {% endif %}
 
+              {% if site.author.twitter_username %}
+                <!-- Mastodon -->
+                <li class="navigation__item">
+                  <a href="http://{{ site.author.mastodon_username }}" title="Find me on Mastodon" target="_blank">
+                    <i class="fa fa-mastodon"></i>
+                    <span class="label">Mastodon</span>
+                  </a>
+                </li>
+              {% endif %}
+
               {% if site.author.facebook_username %}
                 <!-- Facebook -->
                 <li class="navigation__item">
